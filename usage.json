@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/ask-cli",
+  "packageVersion": "1.2.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/ask-cli",
+  "usageRepository": "https://github.com/x12i-sdk/ask-cli",
+  "sourceRepository": "https://github.com/x12i/ask-cli",
+  "sourceCommit": "ec2612a1d1abf8e4b4ab5a665e3c88ace5cc1156",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Resolve a natural-language phrase into a command plan",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:28:44.711544+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "a409e185e40a48e0c206879292afdd43dc5c43bb4a07615438b1f2c30c8c63c8",
+    "manifestSha256": "c5575c810cf30ea34c4950178bbafdfe0c0a39eccc0dbacca993c511ecd64247"
+  },
+  "validationFiles": {
+    "src/index.mjs": "a409e185e40a48e0c206879292afdd43dc5c43bb4a07615438b1f2c30c8c63c8"
+  }
+}

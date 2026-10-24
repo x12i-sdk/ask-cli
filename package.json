@@ -1,0 +1,22 @@
+{
+  "name": "ask-cli-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/ask-cli: resolve a natural-language phrase into a command plan.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/ask-cli": "1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/ask-cli.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/ask-cli"
+}
